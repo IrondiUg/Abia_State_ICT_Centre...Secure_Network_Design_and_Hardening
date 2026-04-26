@@ -4,4 +4,5 @@ They also have a file server (Windows Server 2022) storing ThriveAbia students a
 Recently, a staff member’s computer got infected with ransomware through a phishing email, spreading to three other PCs.
 
 **Your task**: Redesign their LAN architecture with security in mind, explaining how to protect all Windows machines on that LAN.
+
 ---
