@@ -6,4 +6,4 @@ Recently, a staff member’s computer got infected with ransomware through a phi
 **Your task**: Redesign their LAN architecture with security in mind, explaining how to protect all Windows machines on that LAN.
 
 ---
-## ⚠️‼️`DISCLAIMER: THE SCENARIO DESCRIBED IN THIS PROJECT IS ENTIRELY FICTIONAL AND CREATED FOR EDUCATIONAL PURPOSES. MO REAL INCIDENT OCCURED AT THE MINISTRY'S OCT CENTRE.`
+## ⚠️‼️`DISCLAIMER: THE SCENARIO DESCRIBED IN THIS PROJECT IS ENTIRELY FICTIONAL AND CREATED FOR EDUCATIONAL PURPOSES. NO REAL INCIDENT OCCURED AT THE MINISTRY'S ICT CENTRE.`
